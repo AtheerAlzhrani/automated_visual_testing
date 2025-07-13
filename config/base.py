@@ -1,0 +1,3 @@
+import os
+
+APPLITOOLS_API_KEY = os.getenv("APPLITOOLS_API_KEY")
